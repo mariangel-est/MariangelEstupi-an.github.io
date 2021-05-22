@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    
+    background: url(fondobrillos.jpg);
+}
+.navega{
+    width: 1700px;
+    margin: 70px auto;
+    background-color: darkgrey;
+}
+.navega ul{
+    list-style: none;
+}
+
+.menuprincipal > li{
+    position: relative;
+    display: inline-block;
+    text-decoration: none ;
+    background-color: darkcyan ;
+}
+.menuprincipal > li >a{
+    display: block;
+    padding: 17px 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none ;
+    color: powderblue;
+
+}
+.menuprincipal li a:hover{
+    color:thistle;
+}
+h1{
+    font-size: 65px;
+    font-family:'Open Sans Condensed', sans-serif;
+    text-decoration:none;
+    color:cadetblue;
+    text-align: center;
+    border-bottom:rosybrown 5px solid;
+}
+h2{
+    width: 1000px;
+        font-size: 16px;
+        font-family: 'KoHo', sans-serif;
+        
+
+}
+.button {
+    padding: 10px;
+    background-color: rgb(178, 205, 240);
+    color: rgb(2, 0, 1);
+    border: solid; color:rgb(2, 34, 34);
+    font-family:'KoHo', sans-serif; ;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    font-size: 1em;
+  }

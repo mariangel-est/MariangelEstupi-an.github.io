@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+    padding: 0%; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    
+    background-color: thistle;
+}
+.navega{
+    width: 1700px;
+    margin: 70px auto;
+    background-color: darkgrey;
+}
+.navega ul{
+    list-style: none;
+}
+
+.menuprincipal > li{
+    position: relative;
+    display: inline-block;
+    text-decoration: none ;
+    background-color: darkcyan ;
+}
+.menuprincipal > li >a{
+    display: block;
+    padding: 17px 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none ;
+    color: powderblue;
+
+}
+.menuprincipal li a:hover{
+    color:thistle;
+}
+body {
+    padding: 0%;
+    background-color:lightskyblue;
+    color:darkslategray;
+    font-size: 15px;
+  }
+  
+  .dark-mode {
+    
+    background-color:darkslategray;
+    color:lightskyblue;
+  }
+  h1{width: 200x;
+    font-size: 20px;
+    font-family: 'KoHo', sans-serif;
+    text-decoration: none;
+    text-align: justify;
+    margin: 30px auto;
+    float:unset;    
+  }
+  h2{width: 80px;
+    font-size: 16px;
+    font-family: 'KoHo', sans-serif;
+  }
+table {
+    width: 50%;   
+    font-size: 22px;
+    font-family: 'KoHo', sans-serif ;}
+
+table td, th {
+    border: 2px solid crimson;
+        border-collapse: collapse;
+        text-align: center;
+        margin: 0 auto;
+        font-family: 'KoHo', sans-serif ;
+}
+
+
+th, td{
+    width: 25%;
+    text-align: left;
+    vertical-align: middle;
+}
+img{width: 300px;float: left;
+    margin: 20px;border:solid;
+    color:lightyellow;}
+
+h4 { font-size: 65px;
+    font-family:'Open Sans Condensed', sans-serif;
+    text-decoration:none;
+    color:cadetblue;
+    text-align: center;
+    border-bottom:rosybrown 5px solid;
+}
+

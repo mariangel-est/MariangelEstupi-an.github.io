@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+    padding: 0%; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    
+    background-color: thistle;
+}
+.navega{
+    width: 1700px;
+    margin: 70px auto;
+    background-color: darkgrey;
+}
+.navega ul{
+    list-style: none;
+}
+
+.menuprincipal > li{
+    position: relative;
+    display: inline-block;
+    text-decoration: none ;
+    background-color: darkcyan ;
+}
+.menuprincipal > li >a{
+    display: block;
+    padding: 17px 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none ;
+    color: powderblue;
+
+}
+.menuprincipal li a:hover{
+    color:thistle;
+}
+h3{ width: 900px;
+margin: 60px;
+font-family: 'KoHo', sans-serif;
+text-align: justify;
+}
+
+.cont-ind {
+    background: lightcoral;
+    border: 1px solid #aaa;
+    display: table;
+    font-family: 'KoHo', sans-serif;
+    margin: 5%;
+    padding: 20 px;
+    width:auto;
+    list-style: none;
+}
+.cont-ind .titulo-ind {
+    font-weight: 700;
+    text-align: center;
+    font-family: 'KoHo', sans-serif;
+    list-style: none;
+}
+h5{
+    font-family: 'KoHo', sans-serif;
+    font-size: 20px;
+    margin: 30px;
+}
+h2{
+    margin: 5%;
+    font-family: 'KoHo', sans-serif;
+    font-size: 27px;
+    color:rebeccapurple;
+}
+body{
+  
+    background: url(Experienciass.jpg);
+    background-size: 100%;
+}
+h1{
+    font-size: 65px;
+    font-family:'Open Sans Condensed', sans-serif;
+    text-decoration:none;
+    color:rgb(117, 4, 98);
+    text-align: center;
+    border-bottom:rgb(218, 123, 189) 5px solid;
+}
+
+
